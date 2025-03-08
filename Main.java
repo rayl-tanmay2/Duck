@@ -1,4 +1,6 @@
-
+//Name - Tanmay Joshi
+//Prn - 23070126134
+//Class - AIML B3 
 public class Main {
     public static void main(String[] args) {
         RedHeadDuck rd = new RedHeadDuck();
